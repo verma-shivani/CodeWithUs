@@ -35,6 +35,14 @@ header {
   z-index: 999;
 }
 
+.cnt{
+  display: flux;
+  fluxwrap: wrap;
+  justify-content: center;
+}
+
+
+
 .container {
   width: 80%;
   margin: auto;
